@@ -4,9 +4,16 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background: var(--global-background);
 }
 
 a {
   color: inherit;
   text-decoration: none;
+}
+
+:root {
+  --light-mode-purple: #3F33FF;
+  --light-mode-green: #00A643;
+  --light-mode-red: #FF4747;
 }
