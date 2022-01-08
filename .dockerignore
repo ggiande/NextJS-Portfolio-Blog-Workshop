@@ -1,0 +1,12 @@
+*.yaml
+__pycache__/
+.git
+.aws
+.env
+.results
+scripts
+*Dockerfile*
+node_modules
+npm-debug.log
+.next
+.dockerignore
