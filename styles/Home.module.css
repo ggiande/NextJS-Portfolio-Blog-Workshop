@@ -46,6 +46,7 @@
 
 .list {
   list-style-type: none;
+  font-size: 1rem;
   margin: 0;
   padding: 0;
 }
@@ -61,7 +62,6 @@
   justify-content: center;
   text-align: justify-all;
   flex-direction: column;
-  /* border: blue solid 3px; */
 }
 
 @media (max-width: 500px) {
